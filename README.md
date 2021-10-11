@@ -8,4 +8,4 @@
 
 ## Stepping out the door
 
-- [ ] &#x2606; 1 > [My First Day](Journey/001/Readme.md)
+- [ ] &#x22C7; 1 > [My First Day](Journey/001/Readme.md)
