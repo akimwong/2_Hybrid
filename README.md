@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hybrid.png">
+  <img src="Hybrid.png" width="800" height="200">
 </p>
 
 # Hybrid
