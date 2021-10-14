@@ -2,11 +2,11 @@
   <img src="Hybrid.png" width="800" height="200">
 </p>
 
-# Hybrid Cloud
-Definition: Is a composition of a public cloud and a private environment
+# Hybrid Cloud Services
+Definition: Way to connect infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud
 
-This section is not intended to include operational code between public and private networks as is the definition of an hybrid cloud. Code from external libraries that interacts with AWS will be included
+This section is not intended to include operational code between public and private networks as is the definition of an hybrid cloud. Here I will upload code from external libraries that interacts with AWS
 
 ## Stepping out the door
 
-- [ ] &#10535; 1 > [WEB scraping: Python to DynamoDB](Journey/001/Readme.md)
+- [ ] &#10535; 1 > [WEB scraping: Python in local to DynamoDB](Journey/001/Readme.md)
