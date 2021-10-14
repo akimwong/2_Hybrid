@@ -5,7 +5,7 @@
 # Hybrid Cloud
 Is a composition of a public cloud and a private environment
 
-This section not intend to include 
+This section is not intended to include code of operation between public and private networks as a hybrid cloud is defined. 
 
 ## Stepping out the door
 
