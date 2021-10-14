@@ -9,4 +9,4 @@ This section is not intended to include operational code between public and priv
 
 ## Stepping out the door
 
-- [ ] &#10535; 1 > [WEB scraping: Python & DynamoDB](Journey/001/Readme.md)
+- [ ] &#10535; 1 > [WEB scraping: Python to DynamoDB](Journey/001/Readme.md)
