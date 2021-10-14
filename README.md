@@ -8,4 +8,4 @@
 
 ## Stepping out the door
 
-- [ ] &#10535; 1 > [My First Day](Journey/001/Readme.md)
+- [ ] &#10535; 1 > [TBD...](Journey/001/Readme.md)
