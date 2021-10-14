@@ -5,7 +5,7 @@
 # Hybrid Cloud Services
 Definition: Way to connect infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud
 
-This section is not intended to include operational code between public and private networks as is the definition of an hybrid cloud. Here I will upload code from external libraries that interacts with AWS
+This section is not intended to include operational code between public and private networks as is the definition of an hybrid cloud. Here I will upload code from external libraries running in local computer that interacts with AWS
 
 ## Stepping out the door
 
