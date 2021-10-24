@@ -4,5 +4,5 @@ Using as primary key the url
 Specifically:
 - Comercial locals
 - For rent
-- City of Madrid
-### Step3. Deploy the code
+- In the city of Madrid
+### Step3. Deploy the code and check the information
