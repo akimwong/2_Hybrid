@@ -5,4 +5,4 @@ Specifically:
 - Comercial locals
 - For rent
 - In the city of Madrid
-### Step3. Deploy the code and check the information
+### Step3. Deploy the code and check the database
