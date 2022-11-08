@@ -34,4 +34,4 @@ df = pd.DataFrame({'Products':ProdName,'Brand':brand,
                    'PriceBase':priceBase}, 
                   index = list(range(1,len(ProdName)+1)))
 
-df.to_excel(r'C:\Users\Carlos\0_Hybrid\food\aldiSavings20221102.xlsx', index = False)
+df.to_excel(r'C:\Users\Carlos\0_Hybrid\food\aldiSavings20221108.xlsx', index = False)
