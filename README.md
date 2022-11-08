@@ -11,5 +11,5 @@ This section is not intended to include operational code between public and priv
 
 - [ ] &#10535; 1 > [WEB scraping: Python in local to DynamoDB](Journey/001/Readme.md)
 - [ ] &#10535; 1.1 > [Orchestration (!)](Journey/0011)
-- [ ] &#10535; 1.2 > [Scraping - BeautifulSoap](Journey/0012)
+- [ ] &#10535; 1.2 > [Scraping - BeautifulSoap (!)](Journey/0012)
 - [ ] &#10535; 1.3 > [JSON](Journey/0013)
