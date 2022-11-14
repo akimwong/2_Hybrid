@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as bs
 
-
 url = ('https://www.hipercor.es/supermercado/buscar/1/?term=pollo&search=text')
 headers = {'User-Agent': 'Mozilla/5.0'}
 page = requests.get(url, headers=headers)
