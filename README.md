@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Hybrid.png" width="800" height="200">
-</p>
-
 # Hybrid Cloud Services
 Definition: Way to connect infrastructure and applications between cloud-based resources and existing resources that are not located in the cloud
 
